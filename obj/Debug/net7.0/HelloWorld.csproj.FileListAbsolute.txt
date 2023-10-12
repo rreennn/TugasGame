@@ -1,0 +1,14 @@
+D:\DNCC\Game\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+D:\DNCC\Game\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+D:\DNCC\Game\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+D:\DNCC\Game\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+D:\DNCC\Game\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+D:\DNCC\Game\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNCC\Game\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+D:\DNCC\Game\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+D:\DNCC\Game\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\DNCC\Game\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+D:\DNCC\Game\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+D:\DNCC\Game\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+D:\DNCC\Game\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+D:\DNCC\Game\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll

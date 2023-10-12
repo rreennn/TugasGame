@@ -1,0 +1,14 @@
+D:\DNCC\Game\Pertemuan2\bin\Debug\net7.0\Pertemuan2.exe
+D:\DNCC\Game\Pertemuan2\bin\Debug\net7.0\Pertemuan2.deps.json
+D:\DNCC\Game\Pertemuan2\bin\Debug\net7.0\Pertemuan2.runtimeconfig.json
+D:\DNCC\Game\Pertemuan2\bin\Debug\net7.0\Pertemuan2.dll
+D:\DNCC\Game\Pertemuan2\bin\Debug\net7.0\Pertemuan2.pdb
+D:\DNCC\Game\Pertemuan2\obj\Debug\net7.0\Pertemuan2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNCC\Game\Pertemuan2\obj\Debug\net7.0\Pertemuan2.AssemblyInfoInputs.cache
+D:\DNCC\Game\Pertemuan2\obj\Debug\net7.0\Pertemuan2.AssemblyInfo.cs
+D:\DNCC\Game\Pertemuan2\obj\Debug\net7.0\Pertemuan2.csproj.CoreCompileInputs.cache
+D:\DNCC\Game\Pertemuan2\obj\Debug\net7.0\Pertemuan2.dll
+D:\DNCC\Game\Pertemuan2\obj\Debug\net7.0\refint\Pertemuan2.dll
+D:\DNCC\Game\Pertemuan2\obj\Debug\net7.0\Pertemuan2.pdb
+D:\DNCC\Game\Pertemuan2\obj\Debug\net7.0\Pertemuan2.genruntimeconfig.cache
+D:\DNCC\Game\Pertemuan2\obj\Debug\net7.0\ref\Pertemuan2.dll
